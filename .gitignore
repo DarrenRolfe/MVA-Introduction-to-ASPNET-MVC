@@ -51,3 +51,4 @@ coverage
 packages
 *.docstates
 *.InstallLog
+/Module 3 - Visual Studio tools/.vs/MVCMusicStore/v15/Server/sqlite3/db.lock
